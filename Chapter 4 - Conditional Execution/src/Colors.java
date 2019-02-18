@@ -6,17 +6,17 @@ public class Colors
     {
         Scanner input = new Scanner(System.in);
         System.out.print("What color do you want? ");
-        char letter = input.next().charAt(0);
+        String letter = input.nextLine();
 
-        if (letter == 'B' || letter == 'b')
+        if (letter.equalsIgnoreCase("b"))
         {
             System.out.println("You have chosen Blue.");
         }
-        else if (letter == 'G' || letter == 'g')
+        else if (letter.equalsIgnoreCase("g"))
         {
             System.out.println("You have chosen Green.");
         }
-        else if (letter == 'R' || letter == 'r')
+        else if (letter.equalsIgnoreCase("r"))
         {
             System.out.println("You have chosen Red.");
         }
