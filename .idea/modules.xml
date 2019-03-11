@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3 - Parameters and Objects/Chapter 3 - Parameters and Objects.iml" filepath="$PROJECT_DIR$/Chapter 3 - Parameters and Objects/Chapter 3 - Parameters and Objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/Chapter 4 - Conditional Execution.iml" filepath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/Chapter 4 - Conditional Execution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice-IT.iml" filepath="$PROJECT_DIR$/Practice-IT.iml" />
     </modules>
