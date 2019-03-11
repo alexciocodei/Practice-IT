@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Colors
+public class colors
 {
     public static void main(String[] args)
     {

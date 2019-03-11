@@ -1,4 +1,4 @@
-public class Camel
+public class camel
 {
     public static void main(String[] args)
     {
