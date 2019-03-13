@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83238e38-429a-4114-a6fd-512bc67fc06e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 3 - Parameters and Objects/Chapter 3 - Parameters and Objects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3 - Parameters and Objects/src/quadratic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/capitalLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/charMystery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/countE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/countFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/cumulativeProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/gpaMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/lastFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/medianOf3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printNumOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/quadraticPreconditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/secondHalfLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1 - Introduction to Java Programming/Chapter 1 - Introduction to Java Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/Chapter 2 - Primitive Data and Definite Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3G - Graphics/Chapter 3G - Graphics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/daysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/fractionSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/oops4Errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/repl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/xo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/sumTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/sumTo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chapter 4 - Conditional Execution/Camel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter 4 - Conditional Execution/Camel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter 4 - Conditional Execution/Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter 4 - Conditional Execution/Colors.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +27,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printNumOdd.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/daysInMonth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/pow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/xo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#65#66#0" expanded="true" />
+                <element signature="e#84#85#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +100,14 @@
         <option value="$PROJECT_DIR$/Chapter 3 - Parameters and Objects/src/quadratic.java" />
         <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/quadraticPreconditions.java" />
         <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printNumOdd.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/fractionSum.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/repl.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/oops4Errors.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/season.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/daysInMonth.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/pow.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printRange.java" />
+        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/xo.java" />
       </list>
     </option>
   </component>
@@ -89,19 +125,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 3 - Parameters and Objects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
@@ -118,10 +147,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552306301796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552459937348" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -137,37 +168,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.printNumOdd">
-    <configuration name="medianOf3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medianOf3" />
+  <component name="RunManager" selected="Application.xo">
+    <configuration name="daysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daysInMonth" />
       <module name="Chapter 4 - Conditional Execution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printNumOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printNumOdd" />
+    <configuration name="pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pow" />
       <module name="Chapter 4 - Conditional Execution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quadratic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quadratic" />
-      <module name="Chapter 3 - Parameters and Objects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quadraticPreconditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quadraticPreconditions" />
+    <configuration name="printRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printRange" />
       <module name="Chapter 4 - Conditional Execution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secondHalfLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondHalfLetters" />
+    <configuration name="season" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="season" />
+      <module name="Chapter 4 - Conditional Execution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xo" />
       <module name="Chapter 4 - Conditional Execution" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.printNumOdd" />
-        <item itemvalue="Application.quadraticPreconditions" />
-        <item itemvalue="Application.quadratic" />
-        <item itemvalue="Application.medianOf3" />
-        <item itemvalue="Application.secondHalfLetters" />
+        <item itemvalue="Application.xo" />
+        <item itemvalue="Application.printRange" />
+        <item itemvalue="Application.pow" />
+        <item itemvalue="Application.daysInMonth" />
+        <item itemvalue="Application.season" />
       </list>
     </recent_temporary>
   </component>
@@ -220,8 +251,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -231,13 +263,13 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -297,6 +329,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial C2" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printRange.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="name.value" />
@@ -314,14 +356,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/Colors.java">
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/colors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/Camel.java">
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/camel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
@@ -352,13 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/doubleSumError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/doubleSumError.java" />
     <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/gpaMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -406,17 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/medianOf3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/capitalLetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -450,6 +475,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/fractionSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/repl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/oops4Errors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/medianOf3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/season.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/daysInMonth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/pow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/xo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#84#85#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
