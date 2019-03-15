@@ -4,7 +4,12 @@
 
 public class lastDigit
 {
-    public int lastDigit(int n)
+    public static void main(String[] args)
+    {
+        lastDigit(33);
+    }
+
+    public static int lastDigit(int n)
     {
         return Math.abs(n % 10);
     }

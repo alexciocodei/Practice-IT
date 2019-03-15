@@ -10,7 +10,12 @@
 
 public class printGrid
 {
-    public void printGrid(int row, int col)
+    public static void main(String[] args)
+    {
+        printGrid(5, 8);
+    }
+
+    public static void printGrid(int row, int col)
     {
         for (int i = 1; i <= row; i++)
         {

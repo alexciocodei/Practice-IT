@@ -5,7 +5,12 @@
 
 public class cylinderSurfaceArea
 {
-    public double cylinderSurfaceArea(double r, double h)
+    public static void main(String[] args)
+    {
+        cylinderSurfaceArea(2, 4);
+    }
+
+    public static double cylinderSurfaceArea(double r, double h)
     {
         return 2 * Math.PI * r * r + 2 * Math.PI * r * h;
     }

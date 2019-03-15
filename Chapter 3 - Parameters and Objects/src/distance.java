@@ -5,7 +5,12 @@
 
 public class distance
 {
-    public double distance(int x1, int y1, int x2, int y2)
+    public static void main(String[] args)
+    {
+        distance(1, 2, 3, 4);
+    }
+
+    public static double distance(int x1, int y1, int x2, int y2)
     {
         return Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
     }

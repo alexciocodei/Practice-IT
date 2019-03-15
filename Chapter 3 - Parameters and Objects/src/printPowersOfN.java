@@ -6,7 +6,12 @@
 
 public class printPowersOfN
 {
-    public void printPowersOfN(int base, int exp)
+    public static void main(String[] args)
+    {
+        printPowersOfN(2, 25);
+    }
+
+    public static void printPowersOfN(int base, int exp)
     {
         for (int i = 0; i <= exp; i++)
             System.out.print(((int) Math.pow(base, i)) + " ");

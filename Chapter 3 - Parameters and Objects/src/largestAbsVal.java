@@ -4,7 +4,12 @@
 
 public class largestAbsVal
 {
-    public int largestAbsVal(int a, int b, int c)
+    public static void main(String[] args)
+    {
+        largestAbsVal(2, 5, 8);
+    }
+
+    public static int largestAbsVal(int a, int b, int c)
     {
         return Math.max(Math.abs(a), Math.max(Math.abs(b), Math.abs(c)));
     }

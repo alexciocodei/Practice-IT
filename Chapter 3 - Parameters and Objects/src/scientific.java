@@ -5,7 +5,12 @@
 
 public class scientific
 {
-    public double scientific(double base, double exp)
+    public static void main(String[] args)
+    {
+        scientific(2, 5);
+    }
+
+    public static double scientific(double base, double exp)
     {
         return base * Math.pow(10, exp);
     }

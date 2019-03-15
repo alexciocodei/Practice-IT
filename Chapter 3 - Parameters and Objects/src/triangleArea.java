@@ -5,7 +5,12 @@
 
 public class triangleArea
 {
-    public double triangleArea(double a, double b, double c)
+    public static void main(String[] args)
+    {
+        triangleArea(2, 3, 5);
+    }
+
+    public static double triangleArea(double a, double b, double c)
     {
         double s = (a + b + c) / 2;
         return Math.sqrt(s * (s - a) * (s - b) * (s - c));

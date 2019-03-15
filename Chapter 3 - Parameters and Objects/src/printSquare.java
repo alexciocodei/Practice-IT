@@ -11,7 +11,12 @@
 
 public class printSquare
 {
-    public void printSquare(int min, int max)
+    public static void main(String[] args)
+    {
+        printSquare(2, 9);
+    }
+
+    public static void printSquare(int min, int max)
     {
         for (int i = min; i <= max; i++)
         {

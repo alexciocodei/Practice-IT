@@ -7,7 +7,12 @@ import java.util.Scanner;
 
 public class inputBirthday
 {
-    public void inputBirthday(Scanner console)
+    public static void main(String[] args)
+    {
+        Scanner console = new Scanner(System.in);
+        inputBirthday(console);
+    }
+    public static void inputBirthday(Scanner console)
     {
         System.out.print("On what day of the month were you born? ");
         int day = console.nextInt();

@@ -5,7 +5,12 @@
 
 public class printReverse
 {
-    public void printReverse(String str)
+    public static void main(String[] args)
+    {
+        printReverse("digi24");
+    }
+
+    public static void printReverse(String str)
     {
         for (int i = str.length() - 1; i >= 0; i--)
             System.out.print(str.charAt(i));

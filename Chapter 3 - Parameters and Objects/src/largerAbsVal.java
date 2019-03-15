@@ -4,7 +4,12 @@
 
 public class largerAbsVal
 {
-    public int largerAbsVal(int a, int b)
+    public static void main(String[] args)
+    {
+        largerAbsVal(2, -3);
+    }
+
+    public static int largerAbsVal(int a, int b)
     {
         return Math.max(Math.abs(a), Math.abs(b));
     }

@@ -10,6 +10,11 @@
 
 public class printDesign
 {
+    public static void main(String[] args)
+    {
+        printDesign();;
+    }
+
     public static void printDesign()
     {
         for (int i = 1; i <= 9; i += 2)

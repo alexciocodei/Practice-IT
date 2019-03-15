@@ -4,7 +4,12 @@
 
 public class sphereVolume
 {
-    public double sphereVolume(double r)
+    public static void main(String[] args)
+    {
+        sphereVolume(5);
+    }
+
+    public static double sphereVolume(double r)
     {
         return 4 * Math.PI * r * r * r / 3;
     }
