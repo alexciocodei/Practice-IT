@@ -5,6 +5,7 @@
  *
  * One is what we see when we're typing our program.
  * The other is what appears on the "console."
+ *
  */
 public class difference
 {
