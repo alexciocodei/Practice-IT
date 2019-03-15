@@ -12,7 +12,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/waveNumbers40.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,26 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/longestName.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printTriangleType.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/average.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/pow2.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/getGrade.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printPalindrome.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/stutter.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/wordCount.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/quadrant.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/numUnique.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/perfectNumbers.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/oops4Errors.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/colors.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/playingCard.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/sumTo.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/countFactors.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/cumulativeProduct.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/gpaMessage.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/capitalLetter.java" />
-        <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/countE.java" />
         <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/lastFirst.java" />
         <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/secondHalfLetters.java" />
         <option value="$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/medianOf3.java" />
@@ -79,6 +72,26 @@
         <option value="$PROJECT_DIR$/Chapter 1 - Introduction to Java Programming/src/stewie2.java" />
         <option value="$PROJECT_DIR$/Chapter 1 - Introduction to Java Programming/src/twoRockets.java" />
         <option value="$PROJECT_DIR$/Chapter 1 - Introduction to Java Programming/src/wellFormed.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/DollarFigure.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/dollarFigure.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/displacement.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/dollarFigure2.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/fibonacci.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/loopSquares.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/nestedNumbers.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/nestedNumbers2.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/nestedNumbers3.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/numbersOutput.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/numbersOutput60.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/numberTriangle.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/printDesign.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/slashFigure.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/slashFigure2.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/spacedNumbers.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/spacesAndNumbers.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/starSquare.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/starTriangle.java" />
+        <option value="$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/waveNumbers40.java" />
       </list>
     </option>
   </component>
@@ -103,6 +116,28 @@
               <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2 - Primitive Data and Definite Loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2 - Primitive Data and Definite Loops" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4 - Conditional Execution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice-IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice-IT" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4 - Conditional Execution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -112,7 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552639710142" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552641468866" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -211,8 +246,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -221,14 +257,14 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.39219934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -345,205 +381,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/pow2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#368#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/getGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#577#0" expanded="true" />
-            <element signature="method#getGrade#0;class#getGrade#0" />
-            <element signature="method#getGrade#1;class#getGrade#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/stutter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#311#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/wordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/quadrant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/numUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#408#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/perfectNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#406#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#988#997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/oops4Errors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#653#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/colors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/playingCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#2106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/sumTo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/countFactors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/cumulativeProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/gpaMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/capitalLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/countE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/lastFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/secondHalfLetters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/printTriangleType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -784,6 +621,182 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4 - Conditional Execution/src/average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/displacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/dollarFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/dollarFigure2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/loopSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/nestedNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/nestedNumbers2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/nestedNumbers3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/numbersOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/numbersOutput60.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/numberTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/printDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/slashFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/slashFigure2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/spacedNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/spacesAndNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/starSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/starTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2 - Primitive Data and Definite Loops/src/waveNumbers40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
