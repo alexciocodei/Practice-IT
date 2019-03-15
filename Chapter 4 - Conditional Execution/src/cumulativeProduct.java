@@ -1,3 +1,5 @@
+//Write code to produce a cumulative product by multiplying together many numbers that are read from the console.
+
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 

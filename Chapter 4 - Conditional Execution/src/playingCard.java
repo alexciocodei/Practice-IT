@@ -1,3 +1,7 @@
+//Write a piece of code that reads a shorthand text description of a playing card and prints the longhand equivalent.
+//The shorthand description is the card's rank (2 through 10, J, Q, K, or A) followed by its suit (C, D, H, or S).
+// You should expand the shorthand into the form "Rank of Suit". You may assume that the user types valid input.
+
 import java.util.Scanner;
 
 public class playingCard

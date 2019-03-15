@@ -1,3 +1,7 @@
+//The following method attempts to return the median (middle) of three integer values, but it contains logic errors.
+//In what cases does the method return an incorrect result?
+//How can the code be fixed? Determine what is wrong with the code, and submit a corrected version that works properly.
+
 public class medianOf3
 {
     public static void main(String[] args)

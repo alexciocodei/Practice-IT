@@ -1,3 +1,7 @@
+//Write a piece of code that reads a shorthand text description of a color and prints the longer equivalent.
+//Acceptable color names are B for Blue, G for Green, and R for Red. If the user types something other than B, G, or R, the program should print an error message.
+// Make your program case-insensitive so that the user can type an uppercase or lowercase letter.
+
 import java.util.Scanner;
 
 public class colors

@@ -1,3 +1,6 @@
+//Write a method named evenSum that prompts the user for many integers and print the total even sum and maximum of the even numbers.
+//You may assume that the user types at least one non-negative even integer.
+
 import java.util.Scanner;
 
 public class evenSumMax
